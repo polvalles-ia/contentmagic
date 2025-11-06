@@ -1,0 +1,7 @@
+{
+  "name": "ContentMagic AI",
+  "description": "A multimodal AI-powered platform to transform and optimize your content for text, images, and audio across various platforms.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
